@@ -6,7 +6,7 @@ Quick Reference for commonly required coding related information, e.g., command 
 
 
 
-# Key Points Copied from Gordon Zhu's Cheatsheet
+## Key Points Copied from Gordon Zhu's Cheatsheet
 
 # cheatsheet-js
 A super condensed JavaScript reference for [Watch and Code](https://watchandcode.com/) students.
