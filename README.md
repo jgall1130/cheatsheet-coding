@@ -1,9 +1,9 @@
 # cheatsheet-coding
 Quick Reference for commonly required coding related information, e.g., command line, best practices...
-
- 
- 
- 
+#
+# 
+# 
+# 
  
 
 ## Below are Key Points Copied from Gordon Zhu's Cheatsheet
