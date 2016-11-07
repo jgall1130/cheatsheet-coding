@@ -1,7 +1,8 @@
 # cheatsheet-coding
 Quick Reference for commonly required coding related information, e.g., command line, best practices...
 #
-![Dos Equis man says](https://raw.github.com/jgall1130/cheatsheet-coding/blob/master/bsjq4.jpg)
+![jQuery Syntax](https://raw.github.com/jgall1130/cheatsheet-coding/blob/master/bsjq4.jpg?raw=true)
+
 # 
  
 
